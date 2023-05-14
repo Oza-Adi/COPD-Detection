@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+matplotlib.pyplot
+seaborn
+librosa.display
+soundfile
+sklearn.preprocessing
+keras
+
